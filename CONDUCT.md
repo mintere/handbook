@@ -19,7 +19,7 @@ or otherwise participating in our community.
 Enforcement of the Code of Conduct applies to:
 - All Mintere open source projects
 - All Mintere hosted events and video calls
-- All Mintere or public employee-owned social media
+- All Mintere or public employee-owned social media *maybe explain why it's important to observe it in public employee owned social media*
 - All Mintere client meetings and communications between clients and Mintere team members
 - The Mintere Basecamp account
 
