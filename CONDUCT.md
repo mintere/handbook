@@ -114,7 +114,7 @@ Our goal is to respond to reports within 48 hours.
 The Working Group will reach a decision as to how to act. These may include:
   - Nothing.
   - A private or public warning.
-  - An imposed vacation (for instance, asking someone to abstain for a week from the Slack or a GitHub project).
+  - An imposed vacation (for instance, asking someone to abstain for a week from the Basecamp or a GitHub project).
   - A permanent or temporary ban from some or all Mintere spaces.
   - For employees, immediate termination or temporary unpaid leave.
   - For clients, we may find you in breach of our agreement.
