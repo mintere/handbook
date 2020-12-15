@@ -9,17 +9,16 @@ Mintere's community includes people from many different backgrounds. Mintere is 
 - Treat everyone with respect and kindness.
 - Be thoughtful in how you communicate.
 - Don't be destructive, discriminatory, or inflammatory.
-- If you encounter an issue, please mail ben@mintere.com. You can also report anonymously using this form.
+- If you encounter an issue, please report it using [this form][report-form].
 
 ## Scope
-Our Code of Conduct applies not only during Mintere work hours but whenever you're representing Mintere or participating in our community.
+Our Code of Conduct applies whenever you're interacting with Mintere or Mintere team members, representing Mintere, or otherwise participating in our community.
 
 Enforcement of the Code of Conduct applies to:
 - All Mintere open source projects
 - All Mintere hosted events and video calls
 - All Mintere or public employee-owned social media
-- All Mintere client meetings
-- All interactions between Mintere clients and Mintere team members
+- All Mintere client meetings and interactions between clients and Mintere team members
 
 Team members: Please remember that even your behavior outside of times when you're directly representing Mintere often reflects on our company and community. As an employee or member of Mintere, any action that violates this Code that could reflect poorly on Mintere may be treated as a violation, regardless of where it occurs.
 
@@ -63,7 +62,9 @@ Please understand that speech and actions have consequences, and unacceptable be
 If you conduct yourself in a way that is explicitly forbidden by the Code of Conduct, you will be warned and asked to stop.
 
 This procedure only serves as a general guideline for moderation & enforcement of our community conduct.
-Under all circumstances, Mintere's staff members may take any action we deem appropriate, including immediate removal from the community. Being banned from the Mintere community may also prevent you from participating in our community events, activities, or future employment.
+Under all circumstances, Mintere's staff members may take any action we deem appropriate, including immediate removal
+from the community. Being banned from the Mintere community may also prevent you from participating in our community
+events, activities, or future employment.
 
 ### Employees:
 
@@ -87,7 +88,7 @@ If you have any questions or concerns about our decision, please reach out to us
 If you encounter a conduct-related issue, you should report it to Mintere using the process described below.
 Please do not try to publicly rally sentiment against a particular individual or group.
 
-Mail conduct@mintere.com
+Report using our [conduct report form][report-form].
 
 - Your message will reach the Mintere Conduct Working Group.
 - Reports are confidential within the Mintere Conduct Working Group.
@@ -120,3 +121,4 @@ Changes to the Code of Conduct should be proposed by creating an issue or making
 This was adapted from [Hack Club's Code of Conduct][hc], which was in turn inspired by Go's Code of Conduct. It is to be noted that many parts of Go's Code of Conduct are adopted from the Code of Conduct documents of the Django, FreeBSD, and Rust projects.
 
 [hc]: https://hackclub.com/conduct/
+[report-form]: https://docs.google.com/forms/d/e/1FAIpQLSdJAschuM3lNl5_TVLqYQnqS0qDkiuqhSivrttvOcOP4oF-Ew/viewform?usp=sf_link
