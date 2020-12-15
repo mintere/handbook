@@ -8,11 +8,13 @@ Mintere's community includes people from many different backgrounds. Mintere is 
 
 - Treat everyone with respect and kindness.
 - Be thoughtful in how you communicate.
-- Don't be destructive, discriminatory, or inflammatory.
+- Don't be destructive, discriminatory, harassing, or inflammatory.
 - If you encounter an issue, please report it using [this form][report-form].
 
 ## Scope
-Our Code of Conduct applies whenever you're interacting with Mintere or Mintere team members, representing Mintere, or otherwise participating in our community.
+
+Our Code of Conduct applies whenever you're interacting with Mintere or Mintere team members, representing Mintere,
+or otherwise participating in our community.
 
 Enforcement of the Code of Conduct applies to:
 - All Mintere open source projects
@@ -21,14 +23,22 @@ Enforcement of the Code of Conduct applies to:
 - All Mintere client meetings and communications between clients and Mintere team members
 - The Mintere Basecamp account
 
-Team members: Please remember that even your behavior outside of times when you're directly representing Mintere often reflects on our company and community. As an employee or member of Mintere, any action that violates this Code that could reflect poorly on Mintere may be treated as a violation, regardless of where it occurs.
+**Team members:** Please remember that even your behavior outside of times when you're directly representing
+Mintere often reflects on our company and community. As an employee or member of Mintere, any action in
+violation of this Code that could reflect poorly on Mintere may be treated as a violation, regardless of where it occurs.
 
 ## Values
-These are the values to which people in our community should aspire.
+
+These are the values to which people in our community should aspire. 
+
+Remember: These are not hard and fast rules, and we don't expect you to be perfect all the time. If you're acting in
+good faith and accidentally break one of these, we won't find you in violation of the Code of Conduct, except in severe cases,
+such as if your behavior is part of a pattern or creates a hostile environment.
 
 - Be friendly and welcoming
 - Be patient
-- Remember that people have varying communication styles and that not everyone is using their native language (meaning and tone can be lost in translation).
+- Remember that people have varying communication styles and that not everyone is using their native language
+  (meaning and tone can be lost in translation).
 - Be thoughtful
 - Productive communication requires effort. Think about how your words will be interpreted.
 - Remember that sometimes it is best to refrain entirely from commenting.
@@ -39,12 +49,14 @@ These are the values to which people in our community should aspire.
   - When we do disagree, try to understand why.
 - Avoid destructive behavior:
   - Derailing: stay on topic; if you want to talk about something else, start a new conversation.
-  - Unconstructive criticism: don't merely condemn the current state of affairs; offer—or at least solicit—suggestions as to how things may be improved.
+  - Unconstructive criticism: don't merely condemn the current state of affairs; offer—or at least
+     solicit—suggestions as to how things may be improved.
   - Snarking (pithy, unproductive, sniping comments)
   - Discussing potentially offensive or sensitive issues; this all too often leads to unnecessary conflict.
-  - Microaggressions: brief and commonplace verbal, behavioral, and environmental indignities that communicate hostile, derogatory, or negative slights and insults to a person or group.
+  - Microaggressions: brief and commonplace verbal, behavioral, and environmental indignities that communicate
+    hostile, derogatory, or negative slights and insults to a person or group.
 
-People are complicated. You should expect to be misunderstood and to misunderstand others; when this inevitably occurs, resist the urge to be defensive or assign blame. Try not to take offense where no offense was intended. Give people the benefit of the doubt. Even if the intent was to provoke, do not rise to it. It is the responsibility of all parties to de-escalate conflict when it arises.
+People are complicated. You should expect to be misunderstood and to misunderstand others; when this inevitably occurs, resist the urge to be defensive or assign blame. Try not to take offense where no offense was intended. Give people the benefit of the doubt. Even if the intent was to provoke, do not rise to it. Your goal should be to de-escalate conflict when it arises.
 
 ## Unwelcome behavior
 
