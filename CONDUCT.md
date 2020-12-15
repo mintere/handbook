@@ -18,7 +18,8 @@ Enforcement of the Code of Conduct applies to:
 - All Mintere open source projects
 - All Mintere hosted events and video calls
 - All Mintere or public employee-owned social media
-- All Mintere client meetings and interactions between clients and Mintere team members
+- All Mintere client meetings and communications between clients and Mintere team members
+- The Mintere Basecamp account
 
 Team members: Please remember that even your behavior outside of times when you're directly representing Mintere often reflects on our company and community. As an employee or member of Mintere, any action that violates this Code that could reflect poorly on Mintere may be treated as a violation, regardless of where it occurs.
 
