@@ -51,7 +51,6 @@ such as if your behavior is part of a pattern or creates a hostile environment.
   - Interpret the arguments of others in good faith, do not seek to disagree.
   - When we do disagree, try to understand why.
 - Avoid destructive behavior:
-  - Derailing: stay on topic; if you want to talk about something else, start a new conversation.
   - Unconstructive criticism: don't merely condemn the current state of affairs; offer—or at least
      solicit—suggestions as to how things may be improved.
   - Snarking (pithy, unproductive, sniping comments)
